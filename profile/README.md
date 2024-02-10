@@ -1,8 +1,9 @@
 ## Hi there 👋
 **Open Nahida** is
 
-An Open Source Software Organization for Nahida Lovers
+An Open Source Software Organization for Nahida Lovers.
 
+Open Nahida try to gather all kind of project that maintainers love Nahida and want to name projects after Nahida's name. Our goal is to **Make Nahida Great for Ever**. To achieve the goal, we will name 
 <!--
 
 **Here are some ideas to get you started:**
