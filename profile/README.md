@@ -3,7 +3,10 @@
 
 An Open Source Software Organization for Nahida Lovers.
 
-Open Nahida try to gather all kind of project that maintainers love Nahida and want to name projects after Nahida's name. Our goal is to **Make Nahida Great for Ever**. To achieve the goal, we will name 
+Open Nahida try to gather all kind of project that maintainers love Nahida and want to name projects after Nahida's name. Our goal is to **Make Nahida Great for Ever**. To achieve the goal, we will name all the projects in a standard name pattern.
+
+## Introduction
+
 <!--
 
 **Here are some ideas to get you started:**
